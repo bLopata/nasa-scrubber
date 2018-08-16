@@ -1,4 +1,3 @@
-/*jslint es6 */
 const http = require("http");
 const axios = require("axios");
 const cheerio = require("cheerio");
